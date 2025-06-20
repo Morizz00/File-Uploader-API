@@ -46,8 +46,6 @@ bash
 Copy
 Edit
 curl -X POST -F "file=@yourfile.txt" http://localhost:8080/upload
-🛠 Built With
-Go
-
-Gin
+Built With
+Go and Gin
 
